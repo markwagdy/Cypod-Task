@@ -1,0 +1,12 @@
+[
+    {
+        "username":"Markwagdy@gmail.com",
+        "password":"p@s$w0rd",
+        "role":"Admin"
+    },
+    {
+        "username":"agent@outlook.com",
+        "password":"p@s$w0rd",
+        "role":"Operator"
+    }
+]
